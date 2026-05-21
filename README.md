@@ -1,16 +1,34 @@
-## Hi there 👋
+## Desarrollador Multiplataforma
 
-<!--
-**CristianLalangui/CristianLalangui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 ¡Hola! Soy CristianLalangui, desarrollador de aplicaciones multiplataforma apasionado por la tecnología y el desarrollo de software.
+Me encanta programar, aprender nuevas tecnologías y participar en proyectos desafiantes que me permitan seguir creciendo tanto a nivel profesional como académico.
 
-Here are some ideas to get you started:
+🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un programador enfocado en el desarrollo Full Stack, con experiencia en tecnologías modernas de backend y frontend.
+Disfruto construir soluciones escalables, eficientes y bien estructuradas, siempre buscando mejorar mis habilidades y aportar valor en cada proyecto.
+
+Mi objetivo es continuar formando parte de proyectos innovadores y de gran impacto, donde pueda seguir aprendiendo, colaborar con otros profesionales y enfrentar nuevos retos tecnológicos.
+
+🛠️ Tecnologías y Herramientas
+🔙 Backend
+Django
+Flask
+Java Spring Boot
+Node.js
+🎨 Frontend
+Angular
+React Native
+Android Studio
+💻 Lenguajes de Programación
+Java
+JavaScript
+Python
+C++
+📚 Intereses Profesionales
+Desarrollo de aplicaciones web y móviles
+Arquitectura de software
+APIs REST
+Desarrollo multiplataforma
+Optimización y escalabilidad
+Aprendizaje continuo y nuevas tecnologías
