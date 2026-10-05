@@ -35,10 +35,8 @@ Aprendizaje continuo y nuevas tecnologías
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CristianLalangui&show_icons=true&theme=rose_pine&count_private=true" alt="Estadísticas de GitHub" height="170" />
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianLalangui&layout=compact&theme=rose_pine&hide=html,css" alt="Lenguajes más usados" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CristianLalangui&theme=rose_pine&margin-w=15&row=1" alt="Trofeos de GitHub" />
-</p>
+</div>
