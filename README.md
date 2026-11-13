@@ -1,86 +1,38 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:38BDF8&text=Cristian%20Lalangui&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=DESARROLLADOR%20MULTIPLATAFORMA%20%7C%20FULL%20STACK%20%7C%20AUTOMATIZACIONES&descSize=15&descAlignY=58&animation=fadeIn" alt="Cristian Lalangui">
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:38BDF8,50:818CF8,100:F472B6&text=%C2%A1Hola!%20Un%20gusto%20verte%20por%20aqu%C3%AD&fontColor=FFFFFF&fontSize=26&animation=fadeIn&stroke=38BDF8&strokeWidth=1" alt="¡Hola! Un gusto verte por aquí">
-
-  [Sobre mí](#-sobre-mí) •
-  [Perfil profesional](#-perfil-profesional) •
-  [Experiencia](#-experiencia) •
-  [Tecnologías](#-tecnologías) •
-  [Contacto](#-contacto)
+  <img width="100%" src="banner.gif" alt="Cristian Lalangui">
 
 </div>
 
 ---
 
-## ◼ Sobre mí
+## 🔳 About me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+Hi! I'm **Cristian Lalangui**, a Higher Technician in Cross-Platform Application Development (DAM) and a developer passionate about technology and about building software that works well and is easy to maintain.
 
-¡Hola! Soy **Cristian Lalangui**, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y desarrollador **Full Stack** apasionado por la tecnología y por construir software que funcione bien y sea fácil de mantener.
+I'm comfortable working on both **backend** (Django, Flask, Java Spring Boot) and **frontend and mobile** (Angular, Android Studio), paying close attention to project structure, code quality and user experience.
 
-Me muevo con soltura tanto en **backend** (Django, Flask, Java Spring Boot, Node.js) como en **frontend y móvil** (Angular, React Native, Android Studio), cuidando la estructura del proyecto, la calidad del código y la experiencia de usuario.
+I have hands-on experience in **process automation with n8n**, **API integration** and designing **MCP (Model Context Protocol) architectures** for AI systems.
 
-Tengo experiencia real en **automatización de procesos con n8n**, **integración de APIs** y diseño de **arquitectura MCP (Model Context Protocol)** para sistemas de IA.
+I'm currently studying a **Bachelor's Degree in Computer Engineering** at Universidad Europea de Madrid, and I'm looking for my first job as a developer, on a team where I can contribute from day one and keep growing.
 
-Actualmente curso el **Grado en Ingeniería Informática** en la Universidad Europea de Madrid y busco mi primer empleo como desarrollador, en un equipo donde aportar desde el primer día y seguir creciendo.
-
-Me definen la curiosidad, la responsabilidad, el trabajo en equipo y las ganas de aprender de forma continua.
+I'm defined by curiosity, responsibility, teamwork and a drive for continuous learning.
 
 <p>
   <a href="mailto:cristianalg740@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-ESCRIBIR-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/EMAIL-WRITE_ME-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/cristian-lalangui-guillca">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GITHUB-PERFIL-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
-</td>
-<td width="35%" valign="top">
-
-```typescript
-const perfil = {
-  nombre: "Cristian Lalangui",
-
-  rolPrincipal:
-    "Desarrollador Multiplataforma",
-
-  areas: [
-    "Backend",
-    "Frontend",
-    "Móvil (Android)"
-  ],
-
-  extra: [
-    "Automatización n8n",
-    "Arquitectura MCP"
-  ],
-
-  idiomas: [
-    "Español (nativo)",
-    "Inglés (C1)"
-  ],
-
-  ubicacion: "Madrid, España",
-
-  buscando: "Primer empleo como developer"
-};
-```
-
-</td>
-</tr>
-</table>
-
 ---
 
-## ◼ Perfil profesional
+## 🔳 Professional profile
 
 <table>
 <tr>
@@ -88,20 +40,20 @@ const perfil = {
 
 <h3>
   <img src="https://img.icons8.com/fluency-systems-regular/48/38BDF8/server.png" width="28" align="center" alt="Backend">
-  Desarrollo backend
+  Backend development
 </h3>
 
-APIs REST y lógica de negocio con **Django, Flask y Java Spring Boot**, con bases de datos **PostgreSQL y MySQL**.
+REST APIs and business logic with **Django, Flask and Java Spring Boot**, backed by **PostgreSQL and MySQL** databases.
 
 </td>
 <td width="50%" valign="top">
 
 <h3>
   <img src="https://img.icons8.com/fluency-systems-regular/48/38BDF8/source-code.png" width="28" align="center" alt="Frontend">
-  Desarrollo frontend
+  Frontend development
 </h3>
 
-Interfaces modernas y responsivas con **Angular, React Native, HTML y CSS/SCSS**, orientadas a una experiencia clara.
+Modern, responsive interfaces built with **Angular, HTML and CSS/SCSS**, focused on a clear user experience.
 
 </td>
 </tr>
@@ -111,20 +63,20 @@ Interfaces modernas y responsivas con **Angular, React Native, HTML y CSS/SCSS**
 
 <h3>
   <img src="https://img.icons8.com/fluency-systems-regular/48/38BDF8/android-os.png" width="28" align="center" alt="Android">
-  Apps móviles
+  Mobile apps
 </h3>
 
-Desarrollo de aplicaciones **Android** con Android Studio y proyectos multiplataforma con React Native.
+**Android** application development with Android Studio.
 
 </td>
 <td width="50%" valign="top">
 
 <h3>
-  <img src="https://img.icons8.com/fluency-systems-regular/48/38BDF8/workflow.png" width="28" align="center" alt="Automatización">
-  Automatización e IA
+  <img src="https://img.icons8.com/fluency-systems-regular/48/38BDF8/workflow.png" width="28" align="center" alt="Automation">
+  Automation & AI
 </h3>
 
-Workflows **no-code/low-code con n8n** y diseño de **arquitectura MCP** y sistemas de integración para IA.
+**No-code/low-code workflows with n8n** and design of **MCP architectures** and integration systems for AI.
 
 </td>
 </tr>
@@ -133,21 +85,21 @@ Workflows **no-code/low-code con n8n** y diseño de **arquitectura MCP** y siste
 <td width="50%" valign="top">
 
 <h3>
-  <img src="https://img.icons8.com/fluency-systems-regular/48/38BDF8/flow-chart.png" width="28" align="center" alt="Arquitectura">
-  Código y arquitectura
+  <img src="https://img.icons8.com/fluency-systems-regular/48/38BDF8/flow-chart.png" width="28" align="center" alt="Architecture">
+  Code & architecture
 </h3>
 
-Soluciones escalables, eficientes y bien estructuradas, con separación de responsabilidades y componentes reutilizables.
+Scalable, efficient and well-structured solutions, with separation of concerns and reusable components.
 
 </td>
 <td width="50%" valign="top">
 
 <h3>
-  <img src="https://img.icons8.com/fluency-systems-regular/48/38BDF8/collaboration.png" width="28" align="center" alt="Colaboración">
-  Trabajo en equipo
+  <img src="https://img.icons8.com/fluency-systems-regular/48/38BDF8/collaboration.png" width="28" align="center" alt="Teamwork">
+  Teamwork
 </h3>
 
-Uso de **Git y GitHub** para colaborar con ramas, commits y pull requests, y comunicación clara dentro del equipo.
+**Git and GitHub** for collaboration through branches, commits and pull requests, with clear communication within the team.
 
 </td>
 </tr>
@@ -155,7 +107,6 @@ Uso de **Git y GitHub** para colaborar con ramas, commits y pull requests, y com
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/FULL_STACK-1D4ED8?style=for-the-badge" alt="Full Stack">
   <img src="https://img.shields.io/badge/BACKEND-0E7490?style=for-the-badge" alt="Backend">
   <img src="https://img.shields.io/badge/FRONTEND-0891B2?style=for-the-badge" alt="Frontend">
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
@@ -165,47 +116,45 @@ Uso de **Git y GitHub** para colaborar con ramas, commits y pull requests, y com
 
 ---
 
-## ◼ Experiencia
+## 🔳 Experience
 
-**Desarrollador Backend y de Automatizaciones** · *Lobbes Marketplace* · Mar 2026 – Jun 2026
+**Backend & Automation Developer** · *Lobbes Marketplace* · Mar 2026 – Jun 2026
 
-- Gestión de automatizaciones y desarrollo de workflows no-code/low-code con **n8n**.
-- Diseño de **arquitectura MCP (Model Context Protocol)** y sistemas de integración para IA.
-- Integración de **APIs** y desarrollo de sistemas backend con **Django y Flask**.
-- Desarrollo de páginas web con **HTML y CSS**.
+- Managed automations and built no-code/low-code workflows with **n8n**.
+- Designed an **MCP (Model Context Protocol) architecture** and integration systems for AI.
+- Integrated **APIs** and developed backend systems with **Django and Flask**.
+- Built web pages with **HTML and CSS**.
 
-**Formación**
+**Education**
 
-- 🎓 Grado en Ingeniería Informática, Universidad Europea de Madrid (2026 – 2030, en curso)
-- 🎓 Técnico Superior en DAM, Epsum – FP Euroformac (2024 – 2026)
+- 🎓 Bachelor's Degree in Computer Engineering, Universidad Europea de Madrid (2026 – 2030, in progress)
+- 🎓 Higher Technician in Cross-Platform Application Development (DAM), Epsum – FP Euroformac (2024 – 2026)
 
 ---
 
-## ◼ Tecnologías
+## 🔳 Tech stack
 
-### Backend y bases de datos
+### Backend & databases
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50" height="50" alt="Django" title="Django">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" title="Flask">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" title="Java Spring Boot">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" title="Node.js">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" title="MySQL">
 </p>
 
-### Frontend y móvil
+### Frontend & mobile
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="50" height="50" alt="Angular" title="Angular">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React Native" title="React Native">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio" title="Android Studio">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50" alt="SCSS" title="SCSS">
 </p>
 
-### Lenguajes
+### Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java">
@@ -214,12 +163,12 @@ Uso de **Git y GitHub** para colaborar con ramas, commits y pull requests, y com
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" title="TypeScript">
 </p>
 
-### Automatización y herramientas
+### Automation & tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-1D4ED8?style=for-the-badge" alt="MCP">
-  <img src="https://img.shields.io/badge/APIs_REST-0E7490?style=for-the-badge" alt="APIs REST">
+  <img src="https://img.shields.io/badge/REST_APIs-0E7490?style=for-the-badge" alt="REST APIs">
 </p>
 
 <p align="left">
@@ -232,18 +181,18 @@ Uso de **Git y GitHub** para colaborar con ramas, commits y pull requests, y com
 
 ---
 
-## ◼ Intereses profesionales
+## 🔳 Professional interests
 
-- 📱 Desarrollo de aplicaciones web y móviles
-- 🏗️ Arquitectura de software
-- 🔌 APIs REST e integración de sistemas
-- 🤖 Automatización e IA (n8n, MCP)
-- ⚡ Optimización y escalabilidad
-- 📚 Aprendizaje continuo y nuevas tecnologías
+- 📱 Web and mobile application development
+- 🏗️ Software architecture
+- 🔌 REST APIs and systems integration
+- 🤖 Automation and AI (n8n, MCP)
+- ⚡ Optimization and scalability
+- 📚 Continuous learning and new technologies
 
 ---
 
-## ◼ Contacto
+## 🔳 Contact
 
 <div align="center">
 
@@ -251,11 +200,11 @@ Uso de **Git y GitHub** para colaborar con ramas, commits y pull requests, y com
     <img src="https://img.shields.io/badge/EMAIL-cristianalg740@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/cristian-lalangui-guillca">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <p><i>📍 Madrid, España · Disponible para incorporación inmediata</i></p>
+  <p><i>📍 Madrid, Spain · Available for immediate start</i></p>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,45:1D4ED8,100:0F172A&section=footer" alt="Pie de página">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,45:1D4ED8,100:0F172A&section=footer" alt="Footer">
