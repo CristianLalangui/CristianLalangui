@@ -33,10 +33,3 @@ Desarrollo multiplataforma
 Optimización y escalabilidad
 Aprendizaje continuo y nuevas tecnologías
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianLalangui&show_icons=true&theme=rose_pine&count_private=true" alt="Estadísticas de GitHub" height="170" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianLalangui&layout=compact&theme=rose_pine&hide=html,css" alt="Lenguajes más usados" height="170" />
-</div>
