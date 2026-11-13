@@ -14,7 +14,7 @@ I'm comfortable working on both **backend** (Django, Flask, Java Spring Boot) an
 
 I have hands-on experience in **process automation with n8n**, **API integration** and designing **MCP (Model Context Protocol) architectures** for AI systems.
 
-I'm currently studying a **Bachelor's Degree in Computer Engineering** at Universidad Europea de Madrid, and I'm looking for my first job as a developer, on a team where I can contribute from day one and keep growing.
+I'm currently studying a  Degree in Computer Engineering at Universidad Europea de Madrid, and I'm looking for my first job as a developer, on a team where I can contribute from day one and keep growing.
 
 I'm defined by curiosity, responsibility, teamwork and a drive for continuous learning.
 
