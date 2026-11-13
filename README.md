@@ -2,21 +2,13 @@
 
   <img width="100%" src="banner.gif" alt="Cristian Lalangui">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:38BDF8,50:818CF8,100:F472B6&text=Hi!%20Great%20to%20see%20you%20here&fontColor=FFFFFF&fontSize=26&animation=fadeIn&stroke=38BDF8&strokeWidth=1" alt="Hi! Great to see you here">
-
-  [About me](#-about-me) •
-  [Professional profile](#-professional-profile) •
-  [Experience](#-experience) •
-  [Tech stack](#-tech-stack) •
-  [Contact](#-contact)
-
 </div>
 
 ---
 
 ## 🔳 About me
 
-Hi! I'm **Cristian Lalangui**, a Higher Technician in Cross-Platform Application Development (DAM) and a **Full Stack** developer passionate about technology and about building software that works well and is easy to maintain.
+Hi! I'm **Cristian Lalangui**, a Higher Technician in Cross-Platform Application Development (DAM) and a developer passionate about technology and about building software that works well and is easy to maintain.
 
 I'm comfortable working on both **backend** (Django, Flask, Java Spring Boot) and **frontend and mobile** (Angular, Android Studio), paying close attention to project structure, code quality and user experience.
 
@@ -115,7 +107,6 @@ Scalable, efficient and well-structured solutions, with separation of concerns a
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/FULL_STACK-1D4ED8?style=for-the-badge" alt="Full Stack">
   <img src="https://img.shields.io/badge/BACKEND-0E7490?style=for-the-badge" alt="Backend">
   <img src="https://img.shields.io/badge/FRONTEND-0891B2?style=for-the-badge" alt="Frontend">
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
